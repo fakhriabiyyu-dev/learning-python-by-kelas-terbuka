@@ -1,2 +1,8 @@
 # learning-python-by-kelas-terbuka
-I learning python
+
+Repository ini berisi progres belajar Python saya, termasuk latihan-latihan dari channel YouTube **Kelas Terbuka**.
+
+## Isi Repository
+- Dasar-dasar Python (Variabel, Tipe Data, Loop, dll)
+- Latihan Logika
+- Catatan belajar pribadi
